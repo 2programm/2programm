@@ -1,4 +1,4 @@
-### Meet the Author of 2programm:
+### Meet the Author of 2programm: 
   Hey everyone! 👋 I'm the creator of 2programm, diving into programming as a newbie.
 ### Why 2programm?:
   I made 2programm to simplify PC navigation. 🖥️ It's my way of blending new skills with a practical solution for Windows users.
