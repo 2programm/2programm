@@ -6,4 +6,3 @@
   Learning programming has been challenging yet rewarding. Each line of code in 2programm reflects hours of learning and experimenting.
 ### Future Plans:
   I'm eager to improve 2programm based on your feedback and add more features! 🚀 Let's make navigating your PC easier and more fun together!
-
